@@ -1,3 +1,3 @@
-module github.com/seongho5356/go-api-server/week2/lab
+module github.com/seongho5356/go-api-server
 
 go 1.22.3
