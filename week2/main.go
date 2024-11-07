@@ -1,6 +1,6 @@
 package main
 
-import "week2/lab"
+import "github.com/seongho5356/go-api-server/week2/lab"
 
 func main(){
 	// lab.SortByUser()
